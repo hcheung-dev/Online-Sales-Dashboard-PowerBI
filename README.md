@@ -1,8 +1,8 @@
 # Online Sales Power BI Dashboard 
 
 This project uses Power BI Desktop to create a dashboard that demonstrates e-commerce sales data. It answers two main business questions that can help with future inventory management:
-1. Which region makes the highest revenue over time?
-2. Which product category/product is the most popular?
+1. Which region generates the highest revenue over time?
+2. Which product category or individual product is the most popular?
 
 ## Data
 
